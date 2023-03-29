@@ -143,7 +143,7 @@ In this section, we will use the PCA data and the K-means algorithm with the bes
 In this section, we will visually analyze the cluster analysis results by observing the outcome with and without using the optimization techniques.
 
 1. Create a composite plot using hvPlot and the plus (`+`) operator to compare the elbow curve that we created to find the best value for k with the original data and the PCA data.
-![Compare elbow plots](images/compare_elbow plots.png)
+![Compare elbow plots](images/compare_elbow_plots.png)
 
 2. Create a composite plot using hvPlot and the plus (`+`) operator to compare the cryptocurrencies clusters using the original data and the PCA data.
 ![Scatter Plot of Original Data with 4 Coin Cluster aftre PCA](images/scatter_plot_aftre_PCA.png)
