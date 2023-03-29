@@ -122,7 +122,7 @@ In this section, we will use the elbow method to find the best value for k using
 1. Use the elbow method algorithm and use the PCA data to find the best value for k. Use a range from 1 to 11.
 
 2. Plot a line chart with all the inertia values computed with the different values of k to visually identify the optimal value for k.
-![Elbow Curve Elbow Plot for PCA Data](images/elbow_plot_for_PCA _data.png) 
+
 
 3. Answer the following questions: What is the best value for k when using the PCA data? Does it differ from the best k value found using the original data?
 
