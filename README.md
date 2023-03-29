@@ -149,3 +149,9 @@ In this section, we will visually analyze the cluster analysis results by observ
 ![Scatter Plot of Original Data with 4 Coin Cluster aftre PCA](images/scatter_plot_aftre_PCA.png)
 
 3. Answer the following question: After visually analyzing the cluster analysis results, what is the impact of using fewer features to cluster the data by using K-means?
+
+## Contributors
+Alexander Likhachev
+
+## License
+MIT
