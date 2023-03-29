@@ -84,7 +84,7 @@ In this section, we will use the elbow method to find the best value for k.
 ![Line chart example](images/line_chart_example.png)
 
 3. Plot a line Elbow Curve chart with all the inertia values computed with the different values of k to visually identify the optimal value for k.
-![Elbow Curve plot example](images/elbow_curve_plot.png)
+
 
 4. Answer the following question: What is the best value for k?
 
